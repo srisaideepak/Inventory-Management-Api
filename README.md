@@ -3,6 +3,10 @@
 A backend-heavy API to track products in a warehouse. Implemented using **Java 17** and **Spring Boot 3.5.x**. Uses **MySQL** (or H2 in-memory DB for quick testing). Fully documented using **Swagger (springdoc-openapi)**.
 
 
+###Working Video Link for Project
+- https://www.loom.com/share/ef034ad0f5fa4e3fa54072b1e096fd4d?sid=e34d0126-8a04-4561-bf9c-200ba5d0d672
+
+
 ### Product Management
 - Full CRUD for products:
     - `id`, `name`, `description`, `price`, `stockQuantity`, `lowStockThreshold`
